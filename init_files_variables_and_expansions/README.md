@@ -5,3 +5,5 @@ n script que cree un alias.
     Nombre: ls
     Valor: rm -f *
 
+1-hello_you:
+script que imprima hola user, donde user es el usuario actual de Linux.
