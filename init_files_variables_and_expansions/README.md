@@ -10,3 +10,4 @@ script que imprima hola user, donde user es el usuario actual de Linux.
 
 
 2-path : Para que la shell busque en /action únicamente al final
+3-paths : Cuenta el número de directorios en el PATH.
